@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Iraq tradmark portal",
+  "description": " Iraq Trademark Registration Certificates, nm",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
